@@ -1,4 +1,3 @@
-Here is a concise README file for your chat application project:
 
 ---
 
@@ -53,5 +52,3 @@ A simple client-server chat application built in Java, featuring a GUI for real-
 3. Chat in real-time with other connected clients.
 
 ---
-
-Let me know if you need further adjustments!
