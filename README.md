@@ -38,17 +38,9 @@ A simple client-server chat application built in Java, featuring a GUI for real-
 - Java Development Kit (JDK) installed.
 - Basic understanding of Java programming.
 
-## Example
+### Screenshots
+Below a glimpses of the project:
 
-1. Start the server:
-   ```bash
-   java ChatServer
-   ```
-2. Open the client and connect:
-   ```bash
-   java ChatClientGUI
-   ```
-
-3. Chat in real-time with other connected clients.
+![Conversation between vishal and rohan](screenshot/1.png)
 
 ---
